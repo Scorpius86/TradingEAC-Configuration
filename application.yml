@@ -13,6 +13,6 @@ applications:
     message: Configured by Azure Spring Cloud - security-dotnet-service
     azure:
       cosmosdb:
-        uri: https://azure-spring-cloud-taller-cosmosdb.documents.azure.com:443/
-        key: 0DOjkFtvGEccDtzVk8JR4xy6tHPbiWt898onKMoDXUUTOmWh9kcnzneTw79tNZjAEBUxrNSnJj8ei5Lbn2qbWg==
-        database: taller-cosmosdb
+        uri: https://cosmosdb-azure-spring-cloud.documents.azure.com:443/
+        key: PxI5mEpcTy87i1kZZOHEfdv7P1C8MHHYoV4mDH4g6MMeGbomBDYKgtb5hCFhNpyJe9iuFRrhGgm6G0j3xENtPQ==
+        database: TradingEAC-Security
